@@ -46,7 +46,7 @@ To replicate the simulation:
 3. Test connectivity and verify encrypted communication.
 
 ## License
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [[MIT License](LICENSE)](https://github.com/chandrashekhar8003/Simulation-Verification-of-HTTP-DNS-services..git).
 
 ## Contact
 For inquiries or contributions, feel free to reach out via GitHub or email(chandrashekarmv18@gmail.com).
